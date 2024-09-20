@@ -55,7 +55,4 @@ Add sound alerts for better real-time feedback.
 Improve accuracy with more advanced facial recognition models.
 Implement a graphical user interface (GUI) for ease of use.
 Contributing
-Feel free to fork this repository, create a branch, and submit a pull request with your improvements or bug fixes.
 
-License
-This project is licensed under the MIT License.
